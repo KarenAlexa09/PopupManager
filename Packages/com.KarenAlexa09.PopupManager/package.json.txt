@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Popup Manager",
   "description": "A customizable popup system for Unity.",
-  "unity": "6000.0.32f1",
+  "unity": "2020.3",
   "dependencies": {},
   "repository": {
     "type": "git",
