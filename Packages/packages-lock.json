@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.karenalexa09.popupmanager": {
-      "version": "file:com.KarenAlexa09.PopupManager",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.ai.navigation": {
       "version": "2.0.5",
       "depth": 0,
